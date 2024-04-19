@@ -6,3 +6,4 @@ exec { 'killing a process using pkill':
 	provider => shell,
 
 }
+
